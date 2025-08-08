@@ -96,7 +96,7 @@ jupyter notebook src/main.ipynb
 ## Project Structure
 
 ```
-DamDataAnalyser/
+DamAnomalyAnalyser/
 ├── src/
 │   ├── main.ipynb           # Main analysis notebook
 │   └── models/
